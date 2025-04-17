@@ -46,7 +46,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/Victor-Muthomi/PosShop.git
+git clone https://github.com/Victor-Muthomi/PoS-Shop.git
 cd clever-shop-insights
 
 
