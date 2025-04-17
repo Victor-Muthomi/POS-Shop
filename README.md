@@ -46,7 +46,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/clever-shop-insights.git
+git clone https://github.com/Victor-Muthomi/clever-shop-insights.git
 cd clever-shop-insights
 
 
